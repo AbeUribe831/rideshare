@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Ride Share"
+rootProject.name = "rideShareForUber"
 include(":app")
  
